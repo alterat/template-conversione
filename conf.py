@@ -10,7 +10,7 @@ settings_file_name = 'template-conversione'
 
 import sys
 import os
-docs_italia_theme = __import__("docs-italia-theme")
+docs_italia_theme = __import__("docs_italia_theme")
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
@@ -22,7 +22,7 @@ extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.coverage',
     'sphinx.ext.ifconfig',
-    'docs-italia-theme'
+    'docs_italia_theme'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -83,7 +83,7 @@ if on_rtd:  # only import and set the theme if we're building docs locally
     }
 
 # -- Options for HTML output ----------------------------------------------
-html_theme = 'docs-italia-theme'
+html_theme = 'docs_italia_theme'
 html_theme_options = {
     "includehidden": "True",
     'collapse_navigation': 'True',
