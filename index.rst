@@ -2,6 +2,10 @@
 Titolo del documento
 ====================
 
+.. highlights::
+
+   Inserisci un breve sommario del contenuto del documento usando la formattazione appropriata (subtitle o sottotitolo). 
+
 1. Le sezioni
 =============
 
