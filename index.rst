@@ -27,3 +27,27 @@ un altro titolo di livello 1, ma non da titoli di 3 o 4 livello.
 
 Paragrafo di testo.
 
+1.2.1. Sezione di terzo livello
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Altro paragrafo di testo.
+
+1.2.1.1. Sezione di quarto livello
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Le sezioni di quarto livello o superiore sono sconsigliate per ragioni
+di leggibilità.
+
+1.3. Paragrafi
+--------------
+
+Questo è un paragrafo.
+
+Questo è un altro paragrafo, separato dal precedente da una riga vuota.
+I blocchi di testo non divisi da una riga vuota formano un unico
+paragrafo. Dividi il tuo testo in paragrafi per migliorare la
+leggibilità del documento.
+
+2. La formattazione
+===================
+
