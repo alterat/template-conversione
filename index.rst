@@ -177,5 +177,6 @@ Puoi inserire note con l’apposito comando. [1]_
    Nota a piè di pagina.
 
 .. |Testo alternativo. Luna| image:: media/image1.jpeg
-   :width: 2.08403in
-   :height: 2.27847in
+   :width: 2.08958in
+   :height: 2.08958in
+   

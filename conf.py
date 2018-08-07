@@ -227,3 +227,5 @@ texinfo_documents = [
    settings_copyright_copyleft, settings_project_name, settings_project_name,
    'Miscellaneous'),
 ]
+
+numfig = True
