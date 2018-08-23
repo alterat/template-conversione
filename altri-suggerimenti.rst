@@ -2,7 +2,6 @@
 =====================
 
 .. toctree::
-  :maxdepth: 3
-  :caption: Indice dei contenuti
+   :maxdepth: 3
 
-  altri-suggerimenti/note-a-piè-di-pagina.rst
+   altri-suggerimenti/note-a-piè-di-pagina.rst

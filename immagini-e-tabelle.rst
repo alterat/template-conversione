@@ -2,8 +2,8 @@
 =====================
 
 .. toctree::
-  :maxdepth: 3
-  :caption: Indice dei contenuti
+   :maxdepth: 3
+   :caption: Indice dei contenuti
 
-  immagini-e-tabelle/figura-con-didascalia.rst
-  immagini-e-tabelle/tabelle.rst
+   immagini-e-tabelle/figura-con-didascalia.rst
+   immagini-e-tabelle/tabelle.rst

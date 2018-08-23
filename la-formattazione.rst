@@ -2,12 +2,11 @@
 ===================
 
 .. toctree::
-  :maxdepth: 3
-  :caption: Indice dei contenuti
+   :maxdepth: 3
 
-  la-formattazione/corsivo.rst
-  la-formattazione/grassetto.rst
-  la-formattazione/sottolineato.rst
-  la-formattazione/collegamenti.rst
-  la-formattazione/apici-e-pedici.rst
-  la-formattazione/codice.rst
+   la-formattazione/corsivo.rst
+   la-formattazione/grassetto.rst
+   la-formattazione/sottolineato.rst
+   la-formattazione/collegamenti.rst
+   la-formattazione/apici-e-pedici.rst
+   la-formattazione/codice.rst

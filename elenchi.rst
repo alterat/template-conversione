@@ -2,9 +2,8 @@
 ==========
 
 .. toctree::
-  :maxdepth: 3
-  :caption: Indice dei contenuti
+   :maxdepth: 3
 
-  elenchi/elenchi-puntati.rst
-  elenchi/elenco-numerato.rst
-  elenchi/suggerimenti-sugli-elenchi.rst
+   elenchi/elenchi-puntati.rst
+   elenchi/elenco-numerato.rst
+   elenchi/suggerimenti-sugli-elenchi.rst

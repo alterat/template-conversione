@@ -7,9 +7,8 @@ del testo dovrebbe essere formattato come tale, usando le opzioni
 “Normal text”, “Normal” o “Text body”, a seconda dei programmi.
 
 .. toctree::
-  :maxdepth: 3
-  :caption: Indice dei contenuti
+   :maxdepth: 3
 
-  le-sezioni/gerarchia-delle-sezioni.rst
-  le-sezioni/altra-sezione-di-secondo-livello.rst
-  le-sezioni/paragrafi.rst
+   le-sezioni/gerarchia-delle-sezioni.rst
+   le-sezioni/altra-sezione-di-secondo-livello.rst
+   le-sezioni/paragrafi.rst
